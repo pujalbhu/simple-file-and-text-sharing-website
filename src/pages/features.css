@@ -1,0 +1,8 @@
+
+
+.productcard { border: 1px solid #ccc; padding: 10px; margin: 10px; }
+.product-image { width: 100px; height: 100px; object-fit: contain; }
+.product-title { font-weight: bold; }
+.product-description { font-size: 14px; }
+.product-price { color: green; font-weight: bold; }
+.add-to-cart { background-color: #007bff; color: white; border: none; padding: 5px 10px; cursor: pointer; }
